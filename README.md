@@ -1,7 +1,7 @@
 # Arduino Autonomous Remote Controlled Robot Car
-As the name suggests, this project is powered by an Arduino (not literally however, because some components need more volts than it can produce.). This is an autonomous & remote controlled robot car.
+This project is a robot car that can operate in a piloted remote controlled Bluetooth® mode & through self-driving modes using ultrasonic and infrared sensors. 
 
-The car follows 3 different modes in accordance to 4 possible positions of 2 physical switches on the exoskeleton of the car. It can be controlled with a mobile phone using Bluetooth® or can autonomously drive without piloting.
+The car is programmed using an Arduino Uno, and is fitted with 4 multiterrain wheels powered by 2 DC motors, an I2C LCD screen, Bluetooth® capabilities, an ultrasonic sonar distance & infrared light sensors.
 
 <p align="center">
   <img src="https://i.ibb.co/bz2bxkD/Picture1.png">
@@ -36,7 +36,7 @@ This mode of autonomous driving used infrared light sensors to detect the path b
 
 ## **Equipment and Software**
 
-- IOS device with BLEJoyStick installed.
+- IOS device with [BLEJoystick](https://apps.apple.com/sa/app/ble-joystick/id1098200556) installed.
 
 - Arduino Mega
 
