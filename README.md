@@ -1,7 +1,7 @@
 # Arduino Autonomous Remote Controlled Robot Car
 As the name suggests, this project is powered by an Arduino (not literally however, because some components need more volts than it can produce.). This is an autonomous & remote controlled robot car.
 
-The car follows 3 different modes in accordance to 4 possible positionsd of 2 physical switches on the exoskeleton of the car. It can be controlled with a mobile phone using Bluetooth® or can autonomously drive without piloting.
+The car follows 3 different modes in accordance to 4 possible positions of 2 physical switches on the exoskeleton of the car. It can be controlled with a mobile phone using Bluetooth® or can autonomously drive without piloting.
 
 <p align="center">
   <img src="https://i.ibb.co/bz2bxkD/Picture1.png">
